@@ -1,4 +1,4 @@
-# butts
+# Butts
 
 You can find support for `butts` on Freenode at `#butts`
 
