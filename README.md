@@ -1,8 +1,8 @@
 # Butts
 
-	 /       \     /     \     /   \
-    (    Y    )   (   Y   )   (  Y  )
-     \   |   /     \  |  /     \ | /
+	 /         \    /       \     /     \     /   \
+	(     Y     )  (    Y    )   (   Y   )   (  Y  )
+ 	 \    |    /    \   |   /     \  |  /     \ | /
 										-- lolbutts
 Your source for premium Butt jokes.
 
